@@ -1,3 +1,1 @@
-# mumuegg.github.io
-## 测温验证页面
-**本项目仅用于研究学习用途，使用请自行承担责任！！**
+Your site is published at https://banyuanjun1014.github.io/dongda/
